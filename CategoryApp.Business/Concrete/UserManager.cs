@@ -57,7 +57,7 @@ namespace CategoryApp.Business.Concrete
                 return new ErrorDataResult<LoginDtoForResponse>(Messages.PasswordError);
             }
             Random rnd = new Random();
-            var code = rnd.Next(1000, 9999).ToString();
+            var code = rnd.Next(100000, 999999).ToString();
 
             SendEmail(userToCheck.Email, "Kod", code);
             return new SuccessDataResult<LoginDtoForResponse>(new LoginDtoForResponse{Username = userForLoginDto.Username,Code = code}, Messages.SuccessfulLogin);
