@@ -1,0 +1,12 @@
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Core\bin\Debug\CategoryApp.Core.dll.config
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Core\bin\Debug\CategoryApp.Core.dll
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Core\bin\Debug\CategoryApp.Core.pdb
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Core\bin\Debug\EntityFramework.dll
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Core\bin\Debug\EntityFramework.xml
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Core\obj\Debug\CategoryApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Core\obj\Debug\CategoryApp.Core.csproj.CopyComplete
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Core\obj\Debug\CategoryApp.Core.dll
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Core\obj\Debug\CategoryApp.Core.pdb
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Core\obj\Debug\CategoryApp.Core.csprojAssemblyReference.cache

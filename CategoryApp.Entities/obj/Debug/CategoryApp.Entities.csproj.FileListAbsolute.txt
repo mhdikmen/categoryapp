@@ -1,0 +1,13 @@
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Entities\bin\Debug\CategoryApp.Entities.dll
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Entities\bin\Debug\CategoryApp.Entities.pdb
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Entities\bin\Debug\CategoryApp.Core.dll
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Entities\bin\Debug\EntityFramework.dll
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Entities\bin\Debug\CategoryApp.Core.pdb
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Entities\bin\Debug\CategoryApp.Core.dll.config
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Entities\bin\Debug\EntityFramework.xml
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Entities\obj\Debug\CategoryApp.Entities.csprojAssemblyReference.cache
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Entities\obj\Debug\CategoryApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Entities\obj\Debug\CategoryApp.Entities.csproj.CopyComplete
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Entities\obj\Debug\CategoryApp.Entities.dll
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Entities\obj\Debug\CategoryApp.Entities.pdb
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Entities\bin\Debug\System.ComponentModel.Annotations.dll

@@ -1,0 +1,17 @@
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Business\bin\Debug\CategoryApp.Business.dll
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Business\bin\Debug\CategoryApp.Business.pdb
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Business\bin\Debug\CategoryApp.Core.dll
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Business\bin\Debug\CategoryApp.DataAccess.dll
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Business\bin\Debug\CategoryApp.Entities.dll
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Business\bin\Debug\EntityFramework.dll
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Business\bin\Debug\CategoryApp.Core.pdb
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Business\bin\Debug\CategoryApp.Core.dll.config
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Business\bin\Debug\CategoryApp.DataAccess.pdb
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Business\bin\Debug\CategoryApp.DataAccess.dll.config
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Business\bin\Debug\CategoryApp.Entities.pdb
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Business\bin\Debug\EntityFramework.xml
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Business\obj\Debug\CategoryApp.Business.csprojAssemblyReference.cache
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Business\obj\Debug\CategoryApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Business\obj\Debug\CategoryApp.Business.csproj.CopyComplete
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Business\obj\Debug\CategoryApp.Business.dll
+C:\Users\akilli\source\repos\CategoryApp\CategoryApp.Business\obj\Debug\CategoryApp.Business.pdb

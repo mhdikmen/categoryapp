@@ -1,0 +1,29 @@
+﻿@model IEnumerable<CategoryApp.Entities.Concrete.Category>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+@ShowTree(@Model)
+
+@helper ShowTree(IEnumerable<CategoryApp.Entities.Concrete.Category> categories)
+{
+    <ul>
+        @foreach (var category in categories)
+        {
+            <li>
+                @category.Name
+                @if (category.Childs != null)
+                {
+                    @ShowTree(category.Childs)
+                }
+            </li>
+        }
+    </ul>
+}
+
+
+
